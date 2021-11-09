@@ -1,0 +1,12 @@
+# CLEAN FUNCTIONS W3 FILM PROJECT
+
+import pandas as pd
+import requests 
+import json
+import os
+from dotenv import load_dotenv
+from pandas import json_normalize
+import time
+import seaborn as sns
+from bs4 import BeautifulSoup as bs
+
