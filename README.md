@@ -1,4 +1,4 @@
-![](Image/Taste of cinema.png)
+![](./Image/Taste of cinema.png)
 
 # W3 Film Data Pipelines Project
 ​
