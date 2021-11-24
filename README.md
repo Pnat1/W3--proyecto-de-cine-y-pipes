@@ -1,10 +1,6 @@
-
-<img src= "Image/Taste of cinema.png">
-
-
+![]("./Image/Taste of cinema.png")
 
 # W3 Film Data Pipelines Project
-![portada](https://www.gettyimages.es/detail/foto/rows-of-empty-red-cinema-seats-imagen-libre-de-derechos/200495653-001?adppopup=true)
 ​
 # Objetive
 The goal of the project is to ultimately create a data pipeline of a random database. The chosen database comes from the BoxOfficeMojo website, where I specifically selected the top 10 grossing films since 1978. After proper cleaning of the dataset it will be enriched with further data both from a new updated database and through a web scrapping process. Ultimately all the functions created must go into a pipeline document that transforms the data through functions into what I want. 
